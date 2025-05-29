@@ -1,0 +1,5 @@
+.venv/
+venv/
+tokenizer.json
+gpt2-finetuned/
+.env
